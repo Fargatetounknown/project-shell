@@ -7,6 +7,18 @@
     <h1>Shell_Play</h1>
     <p class="site_one">Это сайт по продаже видеоигр с удобнишей навигацией</p>
     <p class="text1">На этом сайте вы сможете найти интересующие вас игры, ведь у нас есть библеотека игр с тремя сайтами на выбор.</p>
+
+    <h2>Жанры</h2>
+    <label><input type="radio" />Экшен</label>
+    <label><input type="radio" />Ролевые игры</label>
+    <label><input type="radio" />Стратегия</label>
+    <label><input type="radio" />Приключенческая игра</label>
+    <label><input type="radio" />Симулятор</label>
+    <label><input type="radio" />Спорт и гонки</label>
     
+    <br /><br />
+    
+    <input type="reset" />
+    <br /><br />
 
 </body>
