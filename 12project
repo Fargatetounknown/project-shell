@@ -1,24 +1,140 @@
-<!DOCTYPE html>
 <head>
-    <title>Shell_Play.org</title>
-
-</head>
+    <html lang="ru"></html>
+    <title>ShellPlay.org</title>
+</head>    
 <body>
-    <h1>Shell_Play</h1>
+    <h1>ShellPlay</h1>
     <p class="site_one">Это сайт по продаже видеоигр с удобнишей навигацией</p>
     <p class="text1">На этом сайте вы сможете найти интересующие вас игры, ведь у нас есть библеотека игр с тремя сайтами на выбор.</p>
 
     <h2>Жанры</h2>
-    <label><input type="radio" />Экшен</label>
-    <label><input type="radio" />Ролевые игры</label>
-    <label><input type="radio" />Стратегия</label>
-    <label><input type="radio" />Приключенческая игра</label>
-    <label><input type="radio" />Симулятор</label>
-    <label><input type="radio" />Спорт и гонки</label>
+    <label class="one"><input type="radio" />Экшен</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
     
-    <br /><br />
     
+    
+    <label class="two"><input type="radio" />Ролевые игры</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
+    
+    
+    
+    
+    <label class="three"><input type="radio" />Стратегия</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
+    
+    
+    
+    
+    <label class="four"><input type="radio" />Приключенческая игра</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
+    
+    
+    <label class="five"><input type="radio" />Симулятор</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
+    
+    <label class="six"><input type="radio" />Спорт и гонки</label>
+    <br /><br />    
+        <label class="one"><input type="checkbox" />Экшен</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Ролевые игры</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Стратегия</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Приключенческая игра</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Симулятор</label>
+        <br /><br />
+        <label class="one"><input type="checkbox" />Спорт и гонки</label>
+        <br /><br />
+
+
+
+
+
     <input type="reset" />
     <br /><br />
 
 </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
